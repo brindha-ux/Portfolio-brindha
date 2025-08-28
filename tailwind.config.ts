@@ -57,6 +57,9 @@ export default {
 					glass: 'hsl(var(--card-glass))',
 					hover: 'hsl(var(--card-hover))',
 				},
+				glass: {
+					border: 'hsl(var(--glass-border))',
+				},
 				success: 'hsl(var(--success))',
 				warning: 'hsl(var(--warning))',
 			},

@@ -93,7 +93,7 @@
 @layer components {
   /* Glass Morphism Card */
   .card-glass {
-    @apply bg-card-glass/80 backdrop-blur-md border border-glass-border rounded-radius-lg;
+    @apply bg-card-glass/80 backdrop-blur-md border border-glass-border rounded-lg;
     box-shadow: var(--shadow-card);
   }
   
