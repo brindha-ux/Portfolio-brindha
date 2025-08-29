@@ -13,7 +13,7 @@ const Footer = () => {
     { icon: Github, href: 'https://github.com', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
     { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
-    { icon: Mail, href: 'mailto:arjun.sharma@datascientist.dev', label: 'Email' },
+    { icon: Mail, href: 'mailto:brindha@datascientist.dev', label: 'Email' },
   ];
 
   const quickLinks = [
